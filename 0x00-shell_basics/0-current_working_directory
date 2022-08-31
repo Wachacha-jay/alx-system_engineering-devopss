@@ -1,2 +1,2 @@
-#!/bash/bin
-pwd
+#!/bin/bash
+pwd\n
